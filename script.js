@@ -1,6 +1,6 @@
 
 document.getElementById('no').addEventListener('click', function(e) {
-    alert('No Successful!')
+    alert(this.id)
 }
 )
 
